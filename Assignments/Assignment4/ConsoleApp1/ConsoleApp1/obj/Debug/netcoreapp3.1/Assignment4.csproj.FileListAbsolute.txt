@@ -1,0 +1,3 @@
+C:\Users\user\Documents\USI\CS258\Assignments\Assignment4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Assignment4.AssemblyInfoInputs.cache
+C:\Users\user\Documents\USI\CS258\Assignments\Assignment4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Assignment4.AssemblyInfo.cs
+C:\Users\user\Documents\USI\CS258\Assignments\Assignment4\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Assignment4.csproj.CoreCompileInputs.cache
